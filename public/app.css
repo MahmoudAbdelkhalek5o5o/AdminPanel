@@ -1,0 +1,19 @@
+body{
+    padding :50px
+}
+.thump-image{
+    width : 100px;
+    height : 100px;
+}
+.round{
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.input-group{
+    width: 50%;
+    background-color:black;
+}
+.myForm{
+    box-sizing: body;
+}
